@@ -1,0 +1,2272 @@
+{
+  "seller": {
+    "name": "张亮麻辣烫（万唐路）",
+    "description": "蜂鸟快送",
+    "deliveryTime": 29,
+    "score": 4.6,
+    "serviceScore": 4.6,
+    "foodScore": 4.3,
+    "rankRate": 69.2,
+    "minPrice": 20,
+    "deliveryPrice":3,
+    "ratingCount": 24,
+    "sellCount": 90,
+    "bulletin": "欢迎张亮麻辣烫，再此感谢小主们对本店一直以来的支持和信任。为感谢小主们，我们坚持追求用心，责任，高品质，高效率，让小主们看到我们的努力，打心底觉得吃到安全，放心！",
+    "supports": [
+      {
+        "type": 0,
+        "description": "在线支付满35减22"
+      },
+      {
+        "type": 1,
+        "description": "特价商品12.8元起"
+      },
+      {
+        "type": 2,
+        "description": "单人精彩套餐"
+      },
+      {
+        "type": 3,
+        "description": "该商家支持发票,请下单写好发票抬头"
+      },
+      {
+        "type": 4,
+        "description": "已加入“外卖保”计划,食品安全保障"
+      }
+    ],
+    "avatar": "http://elma.applinzi.com/static/IMG_0706.JPG",
+    "pics": [
+      "http://elma.applinzi.com/static/IMG_0796.JPG",
+      "http://elma.applinzi.com/static/IMG_0797.JPG",
+      "http://elma.applinzi.com/static/IMG_0798.JPG"
+    ],
+    "infos": [
+      "该商家支持发票,请下单写好发票抬头",
+      "品类:麻辣烫,米粉面馆",
+      "浙江省杭州市西湖区唐苗路2号一幢一层105室",
+      "营业时间:10:00-23:00"
+    ]
+  },
+  "goods": [
+    {
+      "name": "热销榜",
+      "type": -1,
+      "foods": [
+        {
+          "name": "娃娃菜",
+          "price": 3.98,
+          "oldPrice": 4.20,
+          "description": "",
+          "sellCount": 2416,
+          "rating": 98,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢的菜",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            }
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0716.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0716.JPG"
+        },
+        {
+          "name": "金针菇",
+          "price": 3.88,
+          "oldPrice": 4.5,
+          "description": "",
+          "sellCount": 1761,
+          "rating": 99,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            }
+          ],
+          "info": "",
+          "icon": "http://elma.applinzi.com/static/IMG_0780.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0780.JPG"
+        },
+        {
+          "name": "土豆",
+          "price": 3.98,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 1654,
+          "rating": 95,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "没啥味道",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 1,
+              "text": "很一般啊",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            }
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0720.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0720.JPG"
+        },
+        {
+          "name": "油条",
+          "price": 3.98,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 1639,
+          "rating": 95,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "难吃不推荐",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            }
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0719.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0719.JPG"
+        },
+        {
+          "name": "撒尿牛丸",
+          "price": 4.28,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 1126,
+          "rating": 95,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "不脆,不好吃",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            }
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0722.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0722.JPG"
+        },
+        {
+          "name": "生菜",
+          "price": 3.98,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 1048,
+          "rating": 99,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            }
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0723.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0723.JPG"
+        },
+        {
+          "name": "龙口粉丝",
+          "price": 4.28,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 934,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            }
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0724.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0724.JPG"
+        }
+        
+      ]
+    },
+    {
+      "name": "优惠",
+      "type": 2,
+      "foods": [
+        {
+          "name": "肥牛米线超值套餐",
+          "price": 19.9,
+          "oldPrice": 45.8,
+          "description": "肥牛，米线，鹌鹑蛋，桂花肠...",
+          "sellCount": 24,
+          "rating": 100,
+          "info": "肥牛，米线，鹌鹑蛋，桂花肠，方火腿,金针菇，东北黑木耳，小青菜，豆芽，千张+汽水",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            }
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0725.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0725.JPG"
+        },
+        {
+          "name": "25元套餐A",
+          "price": 12.8,
+          "oldPrice": 25,
+          "description": "大碗面，肉扒，邪派，土豆骗...",
+          "sellCount": 24,
+          "rating": 100,
+          "info": "大碗面，肉扒，邪派，土豆骗，生菜，千张，小平菇，菠菜",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            }
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0714.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0714.JPG"
+        },
+        {
+          "name": "25元套餐B",
+          "price": 12.8,
+          "oldPrice": 25,
+          "description": "麻辣烫粉，培根，蟹棒，撒尿牛丸...",
+          "sellCount": 24,
+          "rating": 100,
+          "info": "麻辣烫粉，培根，蟹棒，撒尿牛丸，木耳，金针菇，娃娃菜，菠菜",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            }
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0714.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0714.JPG"
+        },
+        {
+          "name": "超划算套餐",
+          "price": 19.9,
+          "oldPrice": 38,
+          "description": "鸡蛋鲜面，甜不辣，千叶豆腐...",
+          "sellCount": 24,
+          "rating": 100,
+          "info": "鸡蛋鲜面，甜不辣，千叶豆腐，龙须丸，蟹王棒，虾米饺，豆腐，生菜，黄豆芽，土豆片",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            }
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0726.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0726.JPG"
+        },
+        {
+          "name": "58元套餐",
+          "price": 34.8,
+          "oldPrice": 58,
+          "description": "手工面，龙口粉丝，肥羊，狮子头...",
+          "sellCount": 24,
+          "rating": 100,
+          "info": "手工面，龙口粉丝，肥羊，狮子头，龙利鱼，牛柳，甜不辣，黄金鱼豆腐，亲亲肠，烤肠，藕片，生菜，娃娃菜，金针菇，千张，海带丝",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            }
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0714.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0714.JPG"
+        }
+      ]
+    },
+    {
+      "name": "打包必选",
+      "type": -1,
+      "foods": [
+        {
+          "name": "餐盒",
+          "price": 2.5,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 3526,
+          "rating": 99,
+          "info": "",
+          "ratings": [
+          
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0715.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0715.JPG"
+        }
+      ]
+    },
+    {
+      "name": "辣度口味",
+      "type": -1,
+      "foods": [
+        {
+          "name": "张良秘制骨汤",
+          "price": 0,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 1600,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            }
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0728.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0728.JPG"
+        },
+        {
+          "name": "微麻微辣",
+          "price": 0.5,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 2138,
+          "rating": 98,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            }
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0717.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0717.JPG"
+        },
+        {
+          "name": "中麻中辣",
+          "price": 0.7,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 833,
+          "rating": 93,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            }
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0729.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0729.JPG"
+        },
+        {
+          "name": "特麻特辣",
+          "price": 0.8,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 215,
+          "rating": 97,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            }
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0730.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0730.JPG"
+        },
+        {
+          "name": "清汤不辣",
+          "price": 0.5,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 566,
+          "rating": 97,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            }
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0706.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0706.JPG"
+        }
+      ]
+    },
+    {
+      "name": "秘制小料",
+      "type": -1,
+      "foods": [
+        {
+          "name": "白糖",
+          "price": 0.5,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 85,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            }
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0732.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0732.JPG"
+        },
+        {
+          "name": "芝麻酱",
+          "price": 2,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 600,
+          "rating": 97,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            }
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0733.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0733.JPG"
+        },
+        {
+          "name": "陈醋",
+          "price": 0.5,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 733,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            }
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0734.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0734.JPG"
+        },
+        {
+          "name": "麻油",
+          "price": 0.5,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 371,
+          "rating": 97,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            }
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0735.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0735.JPG"
+        },
+        {
+          "name": "小米椒",
+          "price": 0.5,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 308,
+          "rating": 96,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            }
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0737.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0737.JPG"
+        },
+        {
+          "name": "蒜泥",
+          "price": 0.5,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 635,
+          "rating": 99,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            }
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0738.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0738.JPG"
+        },
+        {
+          "name": "葱花",
+          "price": 0.5,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 626,
+          "rating": 98,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            }
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0739.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0739.JPG"
+        }
+      ]
+    },
+    {
+      "name": "能量主食",
+      "type": -1,
+      "foods": [
+        {
+          "name": "紫薯面",
+          "price": 4.58,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 151,
+          "rating": 92,
+          "info": "",
+          "ratings": [],
+          "icon": "http://elma.applinzi.com/static/IMG_0740.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0740.JPG"
+        },
+        {
+          "name": "手工大宽粉",
+          "price": 4.58,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 310,
+          "rating": 97,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            }
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0741.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0741.JPG"
+        },
+        {
+          "name": "龙口粉丝",
+          "price": 4.28,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 915,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "还可以",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            }
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0742.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0742.JPG"
+        },
+        {
+          "name": "土豆粉",
+          "price": 5.88,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 206,
+          "rating": 97,
+          "info": "",
+          "ratings": [],
+          "icon": "http://elma.applinzi.com/static/IMG_0743.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0743.JPG"
+        },
+        {
+          "name": "乌冬面",
+          "price": 4.58,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 344,
+          "rating": 92,
+          "info": "",
+          "ratings": [],
+          "icon": "http://elma.applinzi.com/static/IMG_0744.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0744.JPG"
+        },
+        {
+          "name": "大碗面",
+          "price": 4.58,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 1447,
+          "rating": 97,
+          "info": "",
+          "ratings": [],
+          "icon": "http://elma.applinzi.com/static/IMG_0745.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0745.JPG"
+        },
+        {
+          "name": "麻辣烫粉",
+          "price": 4.58,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 369,
+          "rating": 100,
+          "info": "",
+          "ratings": [],
+          "icon": "http://elma.applinzi.com/static/IMG_0746.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0746.JPG"
+        },
+        {
+          "name": "牛筋面",
+          "price": 4.58,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 186,
+          "rating": 100,
+          "info": "",
+          "ratings": [],
+          "icon": "http://elma.applinzi.com/static/IMG_0747.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0747.JPG"
+        },
+        {
+          "name": "东北玉米面",
+          "price": 4.48,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 170,
+          "rating": 100,
+          "info": "",
+          "ratings": [],
+          "icon": "http://elma.applinzi.com/static/IMG_0748.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0748.JPG"
+        },
+        {
+          "name": "蕨根粉",
+          "price": 3.99,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 92,
+          "rating": 100,
+          "info": "",
+          "ratings": [],
+          "icon": "http://elma.applinzi.com/static/IMG_0749.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0749.JPG"
+        },
+        {
+          "name": "新竹粉丝",
+          "price": 3.99,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 156,
+          "rating": 100,
+          "info": "",
+          "ratings": [],
+          "icon": "http://elma.applinzi.com/static/IMG_0750.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0750.JPG"
+        },
+        {
+          "name": "宽牛筋面",
+          "price": 4.58,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 131,
+          "rating": 100,
+          "info": "",
+          "ratings": [],
+          "icon": "http://elma.applinzi.com/static/IMG_0751.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0751.JPG"
+        }
+      ]
+    },
+    {
+      "name": "品牌丸子",
+      "type": -1,
+      "foods": [
+        {
+          "name": "潮汕手打牛筋丸",
+          "price": 7.58,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 388,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            }
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0752.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0752.JPG"
+        },
+        {
+          "name": "竹轮",
+          "price": 4.58,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 128,
+          "rating": 85,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "没啥味道",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 1,
+              "text": "很一般啊",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            }
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0753.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0753.JPG"
+        },
+        {
+          "name": "鱿鱼圈",
+          "price": 5.88,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 95,
+          "rating": 90,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "难吃不推荐",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            }
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0754.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0754.JPG"
+        },
+        {
+          "name": "卤肉包",
+          "price": 4.88,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 182,
+          "rating": 97,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "好吃",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            }
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0755.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0755.JPG"
+        },
+        {
+          "name": "墨鱼丸",
+          "price": 4.58,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 182,
+          "rating": 97,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            }
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0756.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0756.JPG"
+        },
+        {
+          "name": "桂花肠",
+          "price": 4.18,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 101,
+          "rating": 100,
+          "info": "",
+          "ratings": [],
+          "icon": "http://elma.applinzi.com/static/IMG_0757.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0757.JPG"
+        },
+        {
+          "name": "烧鱼板",
+          "price": 4.88,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 240,
+          "rating": 100,
+          "info": "",
+          "ratings": [],
+          "icon": "http://elma.applinzi.com/static/IMG_0758.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0758.JPG"
+        },
+        {
+          "name": "蟹王棒",
+          "price": 3.98,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 333,
+          "rating": 97,
+          "info": "",
+          "ratings": [],
+          "icon": "http://elma.applinzi.com/static/IMG_0759.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0759.JPG"
+        },
+        {
+          "name": "脆骨丸",
+          "price": 4.28,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 411,
+          "rating": 100,
+          "info": "",
+          "ratings": [],
+          "icon": "http://elma.applinzi.com/static/IMG_0760.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0760.JPG"
+        },
+        {
+          "name": "黄金鱼豆腐",
+          "price": 4.28,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 483,
+          "rating": 100,
+          "info": "",
+          "ratings": [],
+          "icon": "http://elma.applinzi.com/static/IMG_0761.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0761.JPG"
+        },
+        {
+          "name": "年糕片",
+          "price": 3.98,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 305,
+          "rating": 100,
+          "info": "",
+          "ratings": [],
+          "icon": "http://elma.applinzi.com/static/IMG_0762.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0762.JPG"
+        }
+        
+      ]
+    },
+    {
+      "name": "想吃肉肉",
+      "type": -1,
+      "foods": [
+        {
+          "name": "培根樱花片",
+          "price": 4.88,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 171,
+          "rating": 97,
+          "info": "",
+          "ratings": [],
+          "icon": "http://elma.applinzi.com/static/IMG_0763.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0763.JPG"
+        },
+        {
+          "name": "煮鸡蛋",
+          "price": 4.58,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 207,
+          "rating": 95,
+          "info": "",
+          "ratings": [],
+          "icon": "http://elma.applinzi.com/static/IMG_0765.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0765.JPG"
+        },
+        {
+          "name": "虎皮鸡爪",
+          "price": 4.88,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 220,
+          "rating": 95,
+          "info": "",
+          "ratings": [],
+          "icon": "http://elma.applinzi.com/static/IMG_0766.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0766.JPG"
+        },
+        {
+          "name": "上海红肠",
+          "price": 4.28,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 191,
+          "rating": 89,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "一般般",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            }
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0764.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0764.JPG"
+        },
+        {
+          "name": "花蛤肉",
+          "price": 5.88,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 25,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            }
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0767.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0767.JPG"
+        },
+        {
+          "name": "鸭胸肉",
+          "price": 4.28,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 145,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            }
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0768.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0768.JPG"
+        },
+        {
+          "name": "鸭血",
+          "price": 3.98,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 639,
+          "rating": 98,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            }
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0769.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0769.JPG"
+        },
+        {
+          "name": "雪花肉扒",
+          "price": 4.28,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 230,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": ""
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            }
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0770.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0770.JPG"
+        },
+        {
+          "name": "培根",
+          "price": 4.28,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 527,
+          "rating": 98,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            }
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0771.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0771.JPG"
+        },
+        {
+          "name": "黑椒牛柳",
+          "price": 5,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 190,
+          "rating": 100,
+          "info": "",
+          "ratings": [],
+          "icon": "http://elma.applinzi.com/static/IMG_0772.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0772.JPG"
+        },
+        {
+          "name": "龙利鱼",
+          "price": 6,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 358,
+          "rating": 94,
+          "info": "",
+          "ratings": [],
+          "icon": "http://elma.applinzi.com/static/IMG_0773.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0773.JPG"
+        }
+      ]
+    },
+    {
+      "name": "有机蔬菜",
+      "type": -1,
+      "foods": [
+        {
+          "name": "空心菜",
+          "price": 3.98,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 258,
+          "rating": 100,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很不错",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            }
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0774.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0774.JPG"
+        },
+        {
+          "name": "小青菜",
+          "price": 3.58,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 578,
+          "rating": 99,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            }
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0775.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0775.JPG"
+        },
+        {
+          "name": "油麦菜",
+          "price": 3.98,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 342,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            }
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0776.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0776.JPG"
+        },
+        {
+          "name": "生菜",
+          "price": 3.98,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 1098,
+          "rating": 99,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            }
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0777.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0777.JPG"
+        },
+        {
+          "name": "莴笋",
+          "price": 3.58,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 358,
+          "rating": 97,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": ""
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            }
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0778.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0778.JPG"
+        },
+        {
+          "name": "圆生菜",
+          "price": 4.28,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 108,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            }
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0779.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0779.JPG"
+        }
+      ]
+    },
+    {
+      "name": "养生菌类",
+      "type": -1,
+      "foods": [
+        {
+          "name": "金针菇",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 1674,
+          "rating": 99,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "nice",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            }
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0780.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0780.JPG"
+        },
+        {
+          "name": "香菇",
+          "price": 388,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 388,
+          "rating": 97,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            }
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0781.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0781.JPG"
+        },
+        {
+          "name": "东北黑木耳",
+          "price": 3.98,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 239,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            }
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0782.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0782.JPG"
+        }
+      ]
+    },
+    {
+      "name": "营养豆类",
+      "type": -1,
+      "foods": [
+        {
+          "name": "鲜豆皮",
+          "price": 3.98,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 296,
+          "rating": 100,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "好评",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            }
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0783.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0783.JPG"
+        },
+        {
+          "name": "千张",
+          "price": 3.98,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 663,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            }
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0784.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0784.JPG"
+        },
+        {
+          "name": "油豆腐",
+          "price": 3.98,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 304,
+          "rating": 96,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            }
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0786.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0786.JPG"
+        },
+        {
+          "name": "腐竹",
+          "price": 3.98,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 468,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            }
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0787.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0787.JPG"
+        },
+        {
+          "name": "豆腐串",
+          "price": 3.98,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 567,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": ""
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            }
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0788.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0788.JPG"
+        },
+        {
+          "name": "千张包",
+          "price": 3.98,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 178,
+          "rating": 97,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://elma.applinzi.com/static/default_header.png"
+            }
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0789.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0789.JPG"
+        },
+        {
+          "name": "日本豆腐",
+          "price": 4.28,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 259,
+          "rating": 97,
+          "info": "",
+          "ratings": [],
+          "icon": "http://elma.applinzi.com/static/IMG_0790.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0790.JPG"
+        }
+      ]
+    },
+    {
+      "name": "欢畅饮品质",
+      "type": -1,
+      "foods": [
+        {
+          "name": "雪碧",
+          "price": 6,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 29,
+          "rating": 100,
+          "ratings": [
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0792.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0792.JPG"
+        },
+        {
+          "name": "芬达",
+          "price": 6,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 39,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+           
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0793.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0793.JPG"
+        },
+        {
+          "name": "王老吉",
+          "price": 7,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 23,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0794.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0794.JPG"
+        },
+        {
+          "name": "纯净水",
+          "price": 4,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 7,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+          ],
+          "icon": "http://elma.applinzi.com/static/IMG_0795.JPG",
+          "image": "http://elma.applinzi.com/static/IMG_0795.JPG"
+        }
+      ]
+    }
+  ],
+  "ratings": [
+    {
+      "username": "3******c",
+      "rateTime": 1469281964000,
+      "deliveryTime": 30,
+      "score": 5,
+      "rateType": 0,
+      "text": "不错,我经常吃这一家,非常赞,以后也会常来吃,强烈推荐.",
+      "avatar": "http://elma.applinzi.com/static/default_header.png",
+      "recommend": [
+        "山药",
+        "千张",
+        "鲜豆皮",
+        "微麻微辣",
+        "小青菜"
+      ]
+    },
+    {
+      "username": "2******3",
+      "rateTime": 1469271264000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "deliveryTime": "",
+      "text": "服务态度不错",
+      "avatar": "http://elma.applinzi.com/static/default_header.png",
+      "recommend": [
+        "江门腊肠"
+      ]
+    },
+    {
+      "username": "3******b",
+      "rateTime": 1469261964000,
+      "score": 3,
+      "rateType": 1,
+      "text": "",
+      "avatar": "http://elma.applinzi.com/static/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "1******c",
+      "rateTime": 1469261864000,
+      "deliveryTime": 20,
+      "score": 5,
+      "rateType": 0,
+      "text": "良心店铺",
+      "avatar": "http://elma.applinzi.com/static/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "2******d",
+      "rateTime": 1469251264000,
+      "deliveryTime": 10,
+      "score": 4,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://elma.applinzi.com/static/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "9******0",
+      "rateTime": 1469241964000,
+      "deliveryTime": 70,
+      "score": 1,
+      "rateType": 1,
+      "text": "送货速度蜗牛一样",
+      "avatar": "http://elma.applinzi.com/static/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "d******c",
+      "rateTime": 1469231964000,
+      "deliveryTime": 30,
+      "score": 5,
+      "rateType": 0,
+      "text": "很喜欢的一家店",
+      "avatar": "http://elma.applinzi.com/static/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "2******3",
+      "rateTime": 1469221264000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "量给的还可以",
+      "avatar": "http://elma.applinzi.com/static/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "3******8",
+      "rateTime": 1469211964000,
+      "deliveryTime": "",
+      "score": 3,
+      "rateType": 1,
+      "text": "",
+      "avatar": "http://elma.applinzi.com/static/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "a******a",
+      "rateTime": 1469201964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "孩子喜欢吃这家",
+      "avatar": "http://elma.applinzi.com/static/default_header.png",
+      "recommend": [
+        "竹轮"
+      ]
+    },
+    {
+      "username": "3******3",
+      "rateTime": 1469191264000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "挺好吃的",
+      "avatar": "http://elma.applinzi.com/static/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "t******b",
+      "rateTime": 1469181964000,
+      "deliveryTime": "",
+      "score": 3,
+      "rateType": 1,
+      "text": "",
+      "avatar": "http://elma.applinzi.com/static/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "f******c",
+      "rateTime": 1469171964000,
+      "deliveryTime": 15,
+      "score": 5,
+      "rateType": 0,
+      "text": "送货速度很快",
+      "avatar": "http://elma.applinzi.com/static/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "k******3",
+      "rateTime": 1469161264000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://elma.applinzi.com/static/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "u******b",
+      "rateTime": 1469151964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "下雨天给快递小哥点个赞",
+      "avatar": "http://elma.applinzi.com/static/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "s******c",
+      "rateTime": 1469141964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "好",
+      "avatar": "http://elma.applinzi.com/static/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "z******3",
+      "rateTime": 1469131264000,
+      "deliveryTime": "",
+      "score": 5,
+      "rateType": 0,
+      "text": "吃了还想再吃",
+      "avatar": "http://elma.applinzi.com/static/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "n******b",
+      "rateTime": 1469121964000,
+      "deliveryTime": "",
+      "score": 3,
+      "rateType": 1,
+      "text": "发票开的不对",
+      "avatar": "http://elma.applinzi.com/static/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "m******c",
+      "rateTime": 1469111964000,
+      "deliveryTime": 30,
+      "score": 5,
+      "rateType": 0,
+      "text": "好吃",
+      "avatar": "http://elma.applinzi.com/static/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "l******3",
+      "rateTime": 1469101264000,
+      "deliveryTime": 40,
+      "score": 5,
+      "rateType": 0,
+      "text": "还不错吧",
+      "avatar": "http://elma.applinzi.com/static/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "3******o",
+      "rateTime": 1469091964000,
+      "deliveryTime": "",
+      "score": 2,
+      "rateType": 1,
+      "text": "",
+      "avatar": "http://elma.applinzi.com/static/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "3******p",
+      "rateTime": 1469081964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "很喜欢",
+      "avatar": "http://elma.applinzi.com/static/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "o******k",
+      "rateTime": 1469071264000,
+      "deliveryTime": "",
+      "score": 5,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://elma.applinzi.com/static/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "k******b",
+      "rateTime": 1469061964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://elma.applinzi.com/static/default_header.png",
+      "recommend": []
+    }
+  ]
+}
